@@ -1,0 +1,32 @@
+body {
+  background: #B2B2B2;
+}
+
+.container {
+  width: 90%;
+  margin: 30px auto;
+  padding: 10px 15px;
+  border: 2px solid #000;
+  height: 400px;
+  text-align: center;
+  position: relative;
+  background: #fff;
+}
+
+.btn {
+  width: 100px;
+  padding: 10px 15px;
+  position: absolute;
+  background: #3D7DA3;
+  border: 2px solid #000;
+  margin-top: 150px;
+  cursor: pointer;
+}
+
+.btn_no {
+  right: 20px;
+}
+
+.btn_yes {
+  left: 20px;
+}
